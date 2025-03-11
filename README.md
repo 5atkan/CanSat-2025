@@ -1,5 +1,5 @@
 # 🛰️ CanSat ESA 2024-2025 🛰️
-### Team Name - Jesuïtes Gràcia - Col·legi Kostka Barcelona  
+### 5atKan - Jesuïtes Gràcia - Col·legi Kostka Barcelona  
 
 [English](#-english) | [Español](#-español) | [Català](#-català)  
 
